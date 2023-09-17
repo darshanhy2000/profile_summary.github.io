@@ -199,7 +199,7 @@
 </head>
 <body>
     <header>
-        <img src="C:\Users\harsh\OneDrive\Pictures\darshan immage.jpeg" alt="Your Name's Profile Picture" width="150" height="150">
+        
         <h1>Darshan H Y</h1>
         <h2>Front-End Developer</h2>
         <h3>Contact No:7338541530</h3>
